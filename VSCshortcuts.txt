@@ -1,0 +1,8 @@
+Selecting the same text-------------ctrl+D
+h1#name-----------------------------<h1 id="name"></h1>(it works in this way)
+to get all necessary starting tags---!+enter(when beginning)
+Copying and pasting with 1 click----shift+alt+down button
+selecting contiguous folders--------hold shift+left click on mouse 
+selecting non-contiguous folders----hold ctrl+left click on mouse 
+delete a line ----------------------Ctrl + Shift + K
+delete the previous text------------Ctrl+back space

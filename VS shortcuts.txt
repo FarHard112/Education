@@ -1,0 +1,10 @@
+Shift + Alt + . : Add the next matching text as a selection
+Shift + Alt + ; : Add all matching text as selections
+ctrl+d  : Copy and paste the same line 
+ctrl+k+d : format the code to its standard state
+ctor+TAB : constructor
+cw : Console.Writeline
+ctrl+left click of the mouse : to go to the definition of any type
+Ctrl + Shift + L :delete a line 
+ctrl+k+/ : Comment
+ctrl+.(dot) : Quick generation of ctors
